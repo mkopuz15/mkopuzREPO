@@ -1,0 +1,1 @@
+print('kosovo is albania');
