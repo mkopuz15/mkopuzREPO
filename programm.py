@@ -1,1 +1,7 @@
-print('Hello World');
+print('Hello Kurac');
+print('Hello Kurac');
+print('Hello Kurac');
+print('Hello Kurac');
+print('Hello Kurac');
+print('Hello Kurac');
+print('Hello Kurac');
